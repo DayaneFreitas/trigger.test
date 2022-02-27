@@ -1,4 +1,4 @@
 # trigger.test
 Treinamento com Jenkins
 
-Testando conexão com o job
+Testando conexão com o job.
